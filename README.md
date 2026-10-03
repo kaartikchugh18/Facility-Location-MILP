@@ -2,7 +2,7 @@
 
 An interactive tool for the capacitated facility location problem. Enter your own customers, facilities, costs and capacities, and it finds the lowest-cost set of facilities to open and how much to ship from each one.
 
-**Live demo:** https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+**Live demo:** https://Kaartikchugh.github.io/Facility-Location-MILP/
 
 ## What it does
 
